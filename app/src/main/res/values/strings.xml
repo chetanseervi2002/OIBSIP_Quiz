@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="total_question">Total Question</string>
+    <string name="this_is_the_question">This is the question</string>
+</resources>
